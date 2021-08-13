@@ -4,7 +4,7 @@ This repository contains sample code for the "Getting Started with Dependency In
 ## Code Samples
 The code samples are in folders starting with the environment (core22, net50), followed by the course module (module1). From there, the "before" and "after" folders contain the code at the beginning of the demo and the code at the end of the demo, respectively.  
 
-*Note: the updated samples are as close to the original samples as possible so that they match what is shown in the Pluralsight course.*
+*Note: The updated samples are as close to the original samples as possible so that they match what is shown in the Pluralsight course. The one exception is the final demo showing late-binding: PeopleViewer.Autofac.LateBinding. The assembly loading system changed significantly in .NET Core 3.0, so the existing .NET Core 2.2 example could not be updated without significant changes. These changes would no longer match the example shown in the video course, and so the example has been excluded from the .NET 5.0 files. If you would like more information on how to dynamically load assemblies, you can take a look at this article: [Dynamically Loading Types in .NET Core with a Custom Assembly Load Context](https://jeremybytes.blogspot.com/2020/01/dynamically-loading-types-in-net-core.html). This technique could be used in conjunction with a dependency injection container to get the late binding functionality shown in the original example.*
 
 ## Pluralsight Course
 * [Getting Started with Dependency Injection in .NET](http://www.pluralsight.com/courses/using-dependency-injection-on-ramp) by Jeremy Clark (released Mar 2019)  

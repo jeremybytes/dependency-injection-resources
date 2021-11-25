@@ -1,8 +1,8 @@
 # "Getting Started with Dependency Injection in .NET" Resources
-This repository contains sample code for the "Getting Started with Dependency Injection in .NET" course by Jeremy Clark on Pluralsight. This repository includes the original examples (.NET Core 2.2) as well as updated projects (.NET 5.0). Additional updates will be posted after .NET 6 is released.  
+This repository contains sample code for the "Getting Started with Dependency Injection in .NET" course by Jeremy Clark on Pluralsight. This repository includes the original examples (.NET Core 2.2) as well as updated projects (.NET 5.0 / .NET 6.0).  
 
 ## Code Samples
-The code samples are in folders starting with the environment (core22, net50), followed by the course module (module1). From there, the "before" and "after" folders contain the code at the beginning of the demo and the code at the end of the demo, respectively.  
+The code samples are in folders starting with the environment (core22, net50, net60), followed by the course module (module1). From there, the "before" and "after" folders contain the code at the beginning of the demo and the code at the end of the demo, respectively.  
 
 *Note: the updated samples are as close to the original samples as possible so that they match what is shown in the Pluralsight course.*
 
@@ -10,9 +10,11 @@ The code samples are in folders starting with the environment (core22, net50), f
 * [Getting Started with Dependency Injection in .NET](http://www.pluralsight.com/courses/using-dependency-injection-on-ramp) by Jeremy Clark (released Mar 2019)  
 
 ## Running the Samples  
-The code samples can be followed using Visual Studio 2019 or Visual Studio Code on Windows. The code samples use WPF (a Windows desktop technology).
+The code samples can be followed using Visual Studio or Visual Studio Code on Windows. The code samples use WPF (a Windows desktop technology).
 
-### Visual Studio 2019 (Community Edition)
+*Note: The .NET 6.0 samples will run with Visual Studio 2022 or Visual Studio Code. .NET 6.0 will **not** run in Visual Studio 2019.*
+
+### Visual Studio 2019 or Visual Studio 2022
 When using Visual Studio, open the solution file (.sln) that is included in each sample folder. The web service needs to be started separately from the application.
 
 **Starting the Service**  

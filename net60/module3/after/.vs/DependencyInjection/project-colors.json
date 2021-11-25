@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "91ab9f33-b184-44ff-94f6-8de523310f1f": {
+      "ProjectGuid": "91ab9f33-b184-44ff-94f6-8de523310f1f",
+      "DisplayName": "PeopleViewer",
+      "ColorIndex": 0
+    },
+    "f5f5e298-c2af-475a-b999-9fd5ad782d1e": {
+      "ProjectGuid": "f5f5e298-c2af-475a-b999-9fd5ad782d1e",
+      "DisplayName": "PeopleViewer.Common",
+      "ColorIndex": 1
+    },
+    "7241e529-1b50-4046-8ae3-2086fe981bbd": {
+      "ProjectGuid": "7241e529-1b50-4046-8ae3-2086fe981bbd",
+      "DisplayName": "PeopleViewer.Presentation",
+      "ColorIndex": 2
+    },
+    "7aed284c-6b9a-42e2-8380-3bd02ed6a46a": {
+      "ProjectGuid": "7aed284c-6b9a-42e2-8380-3bd02ed6a46a",
+      "DisplayName": "PersonDataReader.Service",
+      "ColorIndex": 3
+    },
+    "dd921e8c-99f2-46da-99c8-2f9afe26a7e8": {
+      "ProjectGuid": "dd921e8c-99f2-46da-99c8-2f9afe26a7e8",
+      "DisplayName": "People.Service",
+      "ColorIndex": 4
+    },
+    "1916e217-5962-4059-8072-28205a7bc34a": {
+      "ProjectGuid": "1916e217-5962-4059-8072-28205a7bc34a",
+      "DisplayName": "PeopleViewer.View",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

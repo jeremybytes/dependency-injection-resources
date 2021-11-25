@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "91ab9f33-b184-44ff-94f6-8de523310f1f": {
+      "ProjectGuid": "91ab9f33-b184-44ff-94f6-8de523310f1f",
+      "DisplayName": "PeopleViewer",
+      "ColorIndex": 0
+    },
+    "f5f5e298-c2af-475a-b999-9fd5ad782d1e": {
+      "ProjectGuid": "f5f5e298-c2af-475a-b999-9fd5ad782d1e",
+      "DisplayName": "PeopleViewer.Common",
+      "ColorIndex": 1
+    },
+    "7241e529-1b50-4046-8ae3-2086fe981bbd": {
+      "ProjectGuid": "7241e529-1b50-4046-8ae3-2086fe981bbd",
+      "DisplayName": "PeopleViewer.Presentation",
+      "ColorIndex": 2
+    },
+    "7aed284c-6b9a-42e2-8380-3bd02ed6a46a": {
+      "ProjectGuid": "7aed284c-6b9a-42e2-8380-3bd02ed6a46a",
+      "DisplayName": "PersonDataReader.Service",
+      "ColorIndex": 3
+    },
+    "dd921e8c-99f2-46da-99c8-2f9afe26a7e8": {
+      "ProjectGuid": "dd921e8c-99f2-46da-99c8-2f9afe26a7e8",
+      "DisplayName": "People.Service",
+      "ColorIndex": 4
+    },
+    "1916e217-5962-4059-8072-28205a7bc34a": {
+      "ProjectGuid": "1916e217-5962-4059-8072-28205a7bc34a",
+      "DisplayName": "PeopleViewer.View",
+      "ColorIndex": 5
+    },
+    "9d3cd908-e7aa-4242-bb43-ada69ae2270d": {
+      "ProjectGuid": "9d3cd908-e7aa-4242-bb43-ada69ae2270d",
+      "DisplayName": "PersonDataReader.CSV",
+      "ColorIndex": 6
+    },
+    "548a77b0-0663-4354-bfe8-e424529b4da6": {
+      "ProjectGuid": "548a77b0-0663-4354-bfe8-e424529b4da6",
+      "DisplayName": "PersonDataReader.SQL",
+      "ColorIndex": 7
+    },
+    "63c4d46e-4885-49d9-b889-b32d7d2eec3c": {
+      "ProjectGuid": "63c4d46e-4885-49d9-b889-b32d7d2eec3c",
+      "DisplayName": "PersonDataReader.Decorators",
+      "ColorIndex": 8
+    },
+    "334da4f9-ee5d-47ed-863d-85f99490082d": {
+      "ProjectGuid": "334da4f9-ee5d-47ed-863d-85f99490082d",
+      "DisplayName": "PeopleViewer.Presentation.Tests",
+      "ColorIndex": 9
+    },
+    "5433a9ed-dad5-4a44-bc30-5d83afce03e5": {
+      "ProjectGuid": "5433a9ed-dad5-4a44-bc30-5d83afce03e5",
+      "DisplayName": "PersonDataReader.CSV.Test",
+      "ColorIndex": 10
+    },
+    "3014c7e3-7fe9-4c21-b578-ba82b7fa18fb": {
+      "ProjectGuid": "3014c7e3-7fe9-4c21-b578-ba82b7fa18fb",
+      "DisplayName": "PeopleViewer.Ninject",
+      "ColorIndex": 11
+    },
+    "138318af-58b5-4c28-b200-91a4058dc0c6": {
+      "ProjectGuid": "138318af-58b5-4c28-b200-91a4058dc0c6",
+      "DisplayName": "PeopleViewer.Autofac",
+      "ColorIndex": 12
+    }
+  },
+  "NextColorIndex": 13
+}
